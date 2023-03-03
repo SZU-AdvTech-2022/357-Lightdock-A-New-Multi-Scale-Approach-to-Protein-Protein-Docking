@@ -1,0 +1,10 @@
+@article{jimenez2018lightdock,
+  title={Lightdock: A New Multi-Scale Approach to Protein-Protein Docking},
+  author={Jim{\'e}nez-Garc{\'\i}a, Brian and Roel-Touris, Jorge and Romero-Durana, Miguel and Vidal, Miquel and Jim{\'e}nez-Gonz{\'a}lez, Daniel and Fern{\'a}ndez-Recio, Juan},
+  journal={Bioinformatics},
+  volume={34},
+  number={1},
+  pages={49--55},
+  year={2018},
+  publisher={Oxford University Press}
+}
