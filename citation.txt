@@ -1,0 +1,10 @@
+@article{REPO-358,
+    author = "Jim{\'e}nez-Garc{\'\i}a, Brian and Roel-Touris, Jorge and Romero-Durana, Miguel and Vidal, Miquel and Jim{\'e}nez-Gonz{\'a}lez, Daniel and Fern{\'a}ndez-Recio, Juan",
+    journal = "Bioinformatics",
+    number = "1",
+    pages = "49--55",
+    publisher = "Oxford University Press",
+    title = "{Lightdock: A New Multi-Scale Approach to Protein-Protein Docking}",
+    volume = "34",
+    year = "2018"
+}
