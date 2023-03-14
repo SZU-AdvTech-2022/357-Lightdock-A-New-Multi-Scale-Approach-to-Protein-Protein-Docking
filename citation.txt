@@ -1,4 +1,4 @@
-@article{REPO-358,
+@article{REPO-357,
     author = "Jim{\'e}nez-Garc{\'\i}a, Brian and Roel-Touris, Jorge and Romero-Durana, Miguel and Vidal, Miquel and Jim{\'e}nez-Gonz{\'a}lez, Daniel and Fern{\'a}ndez-Recio, Juan",
     journal = "Bioinformatics",
     number = "1",
